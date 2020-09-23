@@ -1,0 +1,5115 @@
+Oppgave 10 Partial solved
+-------------------------
+Empty Strings
+Empty Strings
+Empty Strings
+Oppgave 10: h) Svaret skal bli lik true her!
+Oppgave 10: i) Svaret skal bli lik true her!
+Oppgave 10: m) Svaret skal bli lik true her!
+--------------------------
+Oppgave 1
+5
+0
+7
+6
+Maximum number of exchanges will be done when the first element is largest in case of comprasion technique.
+Minimum number of exchanges will be done when the last element is largest when we assign max as first element.
+
+----------------
+Oppgave 2
+0
+1
+0
+1
+1
+7
+7
+-------------
+Oppgave 3
+0
+1
+0
+1
+1
+6
+5
+3
+----------------
+nArray after separating even and odd numbers : 
+2
+ 4
+ 6
+ 8
+ 10
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 7
+ 9
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+1
+ 3
+ 5
+ 2
+ 4
+ 6
+ nArray after separating even and odd numbers : 
+-3
+ -1
+ 1
+ 3
+ -4
+ -2
+ 0
+ 2
+ 4
+------------------------------------------------------------------------
+Oppgave 5
+ Single length string
+A
+BA
+JABCDEFGHI
+------------------------------------------------------------------------
+Oppgave 6: e) Feil hvis tabellen har to elementer!
+Oppgave 6: f) Feil hvis tabellen har to elementer!
+Oppgave 6: g) Feil hvis tabellen har flere elementer!
+Oppgave 6: h) Feil hvis tabellen har flere elementer!
+Oppgave 7b: a) Skal ikke kaste unntak for en tom tabell!
+Oppgave 7b: b) Svaret skal bli lik en tom streng!
+java.lang.UnsupportedOperationException
+Oppgave 7b: c) Skal ikke kaste unntak for en tom streng!
+Oppgave 7b: d) Svaret skal bli lik ABC
